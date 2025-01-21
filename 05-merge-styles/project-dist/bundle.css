@@ -541,7 +541,6 @@ body {
     1190px 1394px 0 0px rgba(255, 255, 255, 0.357);
   border-radius: 100px;
 }
-
 .solar-syst div {
   border-radius: 1000px;
   top: 50%;
@@ -1157,7 +1156,6 @@ body {
     -131px -32px 0 -104px rgba(255, 255, 255, 0.38),
     36px 38px 0 -104px rgba(255, 255, 255, 0.406);
 }
-
 .pluto {
   height: 780px;
   width: 780px;
@@ -1192,3 +1190,4 @@ body {
     transform: rotate(-360deg);
   }
 }
+

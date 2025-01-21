@@ -1,4 +1,4 @@
-const path = require('path');
+/*const path = require('path');
 const fs = require('fs').promises;
 
 async function readDirectory() {
@@ -24,4 +24,4 @@ async function readDirectory() {
    }
 }
 
-readDirectory();
+readDirectory();*/
